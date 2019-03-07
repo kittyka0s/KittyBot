@@ -1,0 +1,8 @@
+{
+  "name": "kitty-bot",
+  "version": "1.0.0",
+  "description": "MBd role organiser",
+  "main": "bot.js",
+  "author": "kittyka0s",
+  "dependencies": {}
+}
